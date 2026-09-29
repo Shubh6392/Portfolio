@@ -4,7 +4,11 @@ A modern, fully responsive and animated personal portfolio website built with **
 
 🔗 **Live Demo:** [your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app)
 
-![Portfolio Preview](Outputs/Screenshot 2026-09-30 001946.png)
+![Portfolio Preview1](Outputs/ss1.png)
+![Portfolio Preview2](Outputs/ss2.png)
+![Portfolio Preview3](Outputs/ss3.png)
+![Portfolio Preview4](Outputs/ss4.png)
+![Portfolio Preview5](Outputs/ss5.png)
 
 ---
 
