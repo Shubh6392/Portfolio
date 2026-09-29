@@ -2,7 +2,7 @@
 
 A modern, fully responsive and animated personal portfolio website built with **HTML5, CSS3, and vanilla JavaScript**. No frameworks, no build step, just open and run.
 
-🔗 **Live Demo:** [your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app)
+🔗 **Live Demo:** [https://portfolio-shubh6392s-projects.vercel.app/](https://portfolio-shubh6392s-projects.vercel.app/)
 
 ![Portfolio Preview1](Outputs/ss1.png)
 ![Portfolio Preview2](Outputs/ss2.png)
